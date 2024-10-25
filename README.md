@@ -7,7 +7,8 @@
 - 💼Connect with me on [LinkedIn](https://www.linkedin.com/in/aaryaapatel/)
 - 🫠 I'll add more to this as I actually use GitHub
 - 🎯 My current goals: get my GitHub stats up and work on my portfolio
-- 🕰️ Prev name: AwesomeFalcon (rip)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesomefalcon&show_icons=true&locale=en" alt="awesomefalcon" /></p>
 
