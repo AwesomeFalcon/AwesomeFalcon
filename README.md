@@ -5,7 +5,7 @@
 - 🌱 I'm from Frisco, TX!
 - 📫 Reach me through [email](aaryap251@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aaryaapatel/)
-- 🫠 Check out my [profile](https://aaryaapatel.com)
+- 🫠 Check out my [website](https://aaryaapatel.com)
 - 🎯 My current goals: learn frontend
 
 
